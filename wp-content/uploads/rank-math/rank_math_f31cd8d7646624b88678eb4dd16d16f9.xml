@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//ensolarusa.com/main-sitemap.xsl"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Locations for ENSOLAR USA, LLC</name>
+		<open>1</open>
+		<Folder>
+			<atom:link href="https://ensolarusa.com" />
+			<Placemark>
+				<name><![CDATA[ENSOLAR USA, LLC]]></name>
+				<description><![CDATA[Ensolar USA - Pure clean energy]]></description>
+				<address><![CDATA[8186, Woodland Center Blvd, Tampa FL, 33614, United States of America]]></address>
+				<phoneNumber><![CDATA[+1-833-786-6749]]></phoneNumber>
+				<atom:link href="https://ensolarusa.com"/>
+				<LookAt>
+					<latitude>28.02378178361159</latitude>
+					<longitude> -82.5246432843941</longitude>
+					<altitude>0</altitude>
+					<range></range>
+					<tilt>0</tilt>
+				</LookAt>
+				<Point>
+					<coordinates> -82.5246432843941,28.02378178361159</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /wp-content/uploads/2023/02/file.pdf
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+
+Sitemap: https://ensolarusa.com/sitemap_index.xml

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//ensolarusa.com/video-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-video/1.1 http://www.google.com/schemas/sitemap-video/1.1/sitemap-video.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+	<url>
+		<loc>https://ensolarusa.com/become-a-dealer/</loc>
+		<video:video>
+			<video:title><![CDATA[Ensolar Dealer Group Invitation]]></video:title>
+			<video:publication_date>2023-08-18T00:00:00+00:00</video:publication_date>
+			<video:description><![CDATA[🌞 Join the Ensolar Dealer Group Network! 🌞Are you passionate about sustainable energy and looking to make a difference? Join us in our mission to light up ...]]></video:description>
+			<video:player_loc>https://www.youtube.com/embed/wB3HrhlSrSg</video:player_loc>
+			<video:duration>65</video:duration>
+			<video:family_friendly>yes</video:family_friendly>
+			<video:uploader info="https://ensolarusa.com/author/arturo56k/">Ensolar USA</video:uploader>
+		</video:video>
+	</url>
+	<url>
+		<loc>https://ensolarusa.com/why-ensolar-solar-installers/</loc>
+		<video:video>
+			<video:title><![CDATA[Why Ensolar?]]></video:title>
+			<video:publication_date>2023-04-10T00:00:00+00:00</video:publication_date>
+			<video:description><![CDATA[Ensolar, a trusted Florida based solar installer, guarantees quick, efficient, and comprehensive energy solutions. Your local, reliable choice for solar power]]></video:description>
+			<video:player_loc>https://www.youtube.com/embed/wtwvQnvkYR0</video:player_loc>
+			<video:thumbnail_loc>https://ensolarusa.com/wp-content/uploads/2023/06/why-ensolar.jpg</video:thumbnail_loc>
+			<video:duration>74</video:duration>
+			<video:family_friendly>yes</video:family_friendly>
+			<video:uploader info="https://ensolarusa.com/author/arturo56k/">Ensolar USA</video:uploader>
+		</video:video>
+	</url>
+	<url>
+		<loc>https://ensolarusa.com/solar-panels-in-tampa-fl/</loc>
+		<video:video>
+			<video:title><![CDATA[Why Ensolar?]]></video:title>
+			<video:publication_date>2023-04-10T00:00:00+00:00</video:publication_date>
+			<video:description><![CDATA[Explore top-quality solar panels in Tampa FL. Harness the power of the sun for sustainable energy. Save on bills, boost home value, and protect the environment]]></video:description>
+			<video:player_loc>https://www.youtube.com/embed/wtwvQnvkYR0</video:player_loc>
+			<video:thumbnail_loc>https://i3.ytimg.com/vi/wtwvQnvkYR0/maxresdefault.jpg</video:thumbnail_loc>
+			<video:duration>74</video:duration>
+			<video:family_friendly>yes</video:family_friendly>
+			<video:uploader info="https://ensolarusa.com/author/arturo56k/">Ensolar USA</video:uploader>
+		</video:video>
+	</url>
+	<url>
+		<loc>https://ensolarusa.com/avalon-es/</loc>
+		<video:video>
+			<video:title><![CDATA[ENTREVISTA FAMILIA THERON AVILA]]></video:title>
+			<video:publication_date>2023-04-10T00:00:00+00:00</video:publication_date>
+			<video:description><![CDATA[Realmente me encantó trabajar con esta empresa. El personal de Ensolar, los representantes de ventas, los electricistas y los instaladores son muy conocedores, receptivos y corteses. Todo el proceso fluyó de manera suave y rápida. Definitivamente, los recomendaría al 100% a mis amigos y familiares.]]></video:description>
+			<video:player_loc>https://www.youtube.com/embed/b-tRaX6cFL0</video:player_loc>
+			<video:duration>80</video:duration>
+			<video:family_friendly>yes</video:family_friendly>
+			<video:uploader info="https://ensolarusa.com/author/arturo56k/">Ensolar USA</video:uploader>
+		</video:video>
+		<video:video>
+			<video:title><![CDATA[INSTALACION LUIS THERON]]></video:title>
+			<video:publication_date>2023-04-10T00:00:00+00:00</video:publication_date>
+			<video:description><![CDATA[Realmente me encantó trabajar con esta empresa. El personal de Ensolar, los representantes de ventas, los electricistas y los instaladores son muy conocedores, receptivos y corteses. Todo el proceso fluyó de manera suave y rápida. Definitivamente, los recomendaría al 100% a mis amigos y familiares.]]></video:description>
+			<video:player_loc>https://www.youtube.com/embed/uslkGDOyMKQ</video:player_loc>
+			<video:duration>61</video:duration>
+			<video:family_friendly>yes</video:family_friendly>
+			<video:uploader info="https://ensolarusa.com/author/arturo56k/">Ensolar USA</video:uploader>
+		</video:video>
+	</url>
+</urlset>

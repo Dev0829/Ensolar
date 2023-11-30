@@ -1,0 +1,124 @@
+{
+    "packages": [
+        {
+            "name": "davidanderson684/simba-plugin-manager-updater",
+            "version": "v1.8.17",
+            "version_normalized": "1.8.17.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/DavidAnderson684/simba-plugin-manager-updater.git",
+                "reference": "a522a960324466ac3babbe28af50cf8c7b4ddc11"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/DavidAnderson684/simba-plugin-manager-updater/zipball/a522a960324466ac3babbe28af50cf8c7b4ddc11",
+                "reference": "a522a960324466ac3babbe28af50cf8c7b4ddc11",
+                "shasum": ""
+            },
+            "require": {
+                "yahnis-elsts/plugin-update-checker": "4.13.*"
+            },
+            "time": "2023-03-23T08:52:26+00:00",
+            "type": "library",
+            "installation-source": "source",
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "This class is an updates checker and UI for WordPress plugins that are hosted using the Simba Plugin Manager plugin",
+            "support": {
+                "issues": "https://github.com/DavidAnderson684/simba-plugin-manager-updater/issues",
+                "source": "https://github.com/DavidAnderson684/simba-plugin-manager-updater/tree/v1.8.17"
+            },
+            "install-path": "../davidanderson684/simba-plugin-manager-updater"
+        },
+        {
+            "name": "team-updraft/common-libs",
+            "version": "3.0.3",
+            "version_normalized": "3.0.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://source.updraftplus.com/team-updraft/common-libs.git",
+                "reference": "cd30bf3b65e2cadcea1cca01deb32f5cd21a0b63"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://source.updraftplus.com/api/v4/projects/28/packages/composer/archives/team-updraft/common-libs.zip?sha=cd30bf3b65e2cadcea1cca01deb32f5cd21a0b63",
+                "reference": "cd30bf3b65e2cadcea1cca01deb32f5cd21a0b63",
+                "shasum": ""
+            },
+            "require-dev": {
+                "dealerdirect/phpcodesniffer-composer-installer": "0.7.*",
+                "phpcompatibility/php-compatibility": "9.3.*",
+                "sirbrillig/phpcs-variable-analysis": "2.11.*",
+                "squizlabs/php_codesniffer": "3.6.*",
+                "wp-coding-standards/wpcs": "2.3.*"
+            },
+            "type": "library",
+            "installation-source": "dist",
+            "license": [
+                "GPL-3.0-only"
+            ],
+            "authors": [
+                {
+                    "name": "Team Updraft",
+                    "email": "team.updraft@gmail.com"
+                }
+            ],
+            "description": "These are the common libs used across all of our projects",
+            "install-path": "../team-updraft/common-libs"
+        },
+        {
+            "name": "yahnis-elsts/plugin-update-checker",
+            "version": "v4.13",
+            "version_normalized": "4.13.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/YahnisElsts/plugin-update-checker.git",
+                "reference": "6eb27a6911e0e0880d09e5b11f577d3f688f7da7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/YahnisElsts/plugin-update-checker/zipball/6eb27a6911e0e0880d09e5b11f577d3f688f7da7",
+                "reference": "6eb27a6911e0e0880d09e5b11f577d3f688f7da7",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "php": ">=5.2.0"
+            },
+            "time": "2022-07-29T12:36:25+00:00",
+            "type": "library",
+            "installation-source": "source",
+            "autoload": {
+                "files": [
+                    "load-v4p13.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Yahnis Elsts",
+                    "email": "whiteshadow@w-shadow.com",
+                    "homepage": "http://w-shadow.com/",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A custom update checker for WordPress plugins and themes. Useful if you can't host your plugin in the official WP repository but still want it to support automatic updates.",
+            "homepage": "https://github.com/YahnisElsts/plugin-update-checker/",
+            "keywords": [
+                "automatic updates",
+                "plugin updates",
+                "theme updates",
+                "wordpress"
+            ],
+            "support": {
+                "issues": "https://github.com/YahnisElsts/plugin-update-checker/issues",
+                "source": "https://github.com/YahnisElsts/plugin-update-checker/tree/v4.13"
+            },
+            "install-path": "../yahnis-elsts/plugin-update-checker"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}

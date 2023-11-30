@@ -1,0 +1,296 @@
+# Translation of Plugins - SMS Alert Order Notifications &#8211; WooCommerce - Stable (latest release) in Spanish (Mexico)
+# This file is distributed under the same license as the Plugins - SMS Alert Order Notifications &#8211; WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-29 04:16:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es_MX\n"
+"Project-Id-Version: Plugins - SMS Alert Order Notifications &#8211; WooCommerce - Stable (latest release)\n"
+
+#: handler/forms/class-contactform7.php:277
+msgid "To use the value input through this field in a mail field, you need to insert the corresponding mail-tag (%s) into the field on the Mail tab."
+msgstr "Para usar el valor ingresado a través de este campo en un campo de correo, debe insertar la etiqueta de correo correspondiente (%s) en el campo de la pestaña correo."
+
+#: helper/edd.php:130
+msgid "Admin Notifications"
+msgstr "Notificaciones al Administrador"
+
+#: views/otp-section-template.php:329
+msgid "OTP Template"
+msgstr "Plantilla de OTP"
+
+#: views/otp-section-template.php:30
+msgid "Enable OTP only for Selected Payment Options"
+msgstr "Habilite OTP solo para las opciones de pago seleccionadas"
+
+#: helper/edd.php:129
+msgid "Customer Notifications"
+msgstr "Notificaciones del Cliente"
+
+#: handler/forms/class-contactform7.php:272
+msgid "Insert Tag"
+msgstr "Insertar etiqueta"
+
+#: handler/forms/class-contactform7.php:260
+msgid "Class attribute"
+msgstr "Atributo de clase"
+
+#: handler/forms/class-contactform7.php:255
+msgid "Id attribute"
+msgstr "Atributo de ID"
+
+#: handler/forms/class-contactform7.php:245
+msgid "Use this field for sending OTP to Mobile Number"
+msgstr "Use este campo para enviar OTP al número móvil"
+
+#: handler/forms/class-contactform7.php:230 helper/class-shortcode.php:44
+msgid "Name"
+msgstr "Nombre"
+
+#: handler/forms/class-contactform7.php:198
+msgid "SMSALERT PHONE"
+msgstr "TELÉFONO SMSALERT"
+
+#: handler/forms/class-contactform7.php:224
+msgid "Required field"
+msgstr "Campo Obligatorio"
+
+#: handler/forms/class-contactform7.php:220
+#: handler/forms/class-contactform7.php:223
+msgid "Field type"
+msgstr "Tipo de campo"
+
+#: handler/forms/learnpress-registration.php:123
+#: handler/forms/learnpress-registration.php:125
+msgid "Billing Phone"
+msgstr "Telefono de facturacion"
+
+#: classes/setting-options.php:674
+msgid "Enable Short Url"
+msgstr "Permitir Url cortas"
+
+#: handler/forms/class-userswpform.php:96
+#: handler/forms/pie-registration.php:142 handler/forms/ultimate-member.php:355
+#: handler/forms/user-registration.php:176
+#: handler/forms/woocommerce/wc-checkout.php:130
+#: handler/forms/woocommerce/wc-registration.php:188
+#: handler/forms/woocommerce/wc-registration.php:316
+#: handler/forms/wp-login.php:162 helper/shortcode.php:156
+msgid "Please enter phone number."
+msgstr "Ingrese un número de teléfono"
+
+#: views/otp-section-template.php:280
+msgid "OTP For Reset Password"
+msgstr "OTP para restablecer contraseña"
+
+#: views/otp-section-template.php:322
+msgid "Max OTP Re-send Allowed"
+msgstr "Reenvío máximo de OTP permitidos"
+
+#: views/otp-section-template.php:133
+msgid "Exclude Role from LOGIN OTP"
+msgstr "Excluir rol de LOGIN OTP"
+
+#: views/otp-section-template.php:101
+msgid "Register OTP in Popup"
+msgstr "Registrar OTP en ventana emergente"
+
+#: template/reset-password-template.php:23
+#: template/reset-password-template.php:38
+msgid "Change Password"
+msgstr "Cambiar la Contraseña"
+
+#: template/otp-popup-hasnophoneno.php:24 template/register-otp-template.php:25
+#: template/reset-password-template.php:24
+msgid "Go Back"
+msgstr "Volver"
+
+#: views/support.php:58
+msgid "Thanks in advance."
+msgstr "¡Gracias de antemano!"
+
+#: views/support.php:58
+msgid "please leave us a"
+msgstr "Por favor déjanos un"
+
+#: views/support.php:58
+msgid "If you like"
+msgstr "Si te gusta"
+
+#: handler/forms/class-elementor.php:20 handler/forms/class-elementor.php:186
+#: handler/forms/wp-member.php:68 helper/class-divi.php:126
+#: helper/class-divimodule.php:30 helper/class-wordpresswidget.php:8
+#: js/block.js:15 js/block.js:18
+msgid "SMSAlert"
+msgstr "SMSAlert"
+
+#: views/support.php:51
+msgid "Phone Support"
+msgstr "Soporte telefonico"
+
+#: views/support.php:5
+msgid "We would be glad to help you. You can reach us through any of the three ways."
+msgstr "Estaremos encantados de ayudarle. Puede comunicarse con nosotros a través de cualquiera de las tres formas."
+
+#: classes/setting-options.php:645
+msgid "Alerts"
+msgstr "Alertas"
+
+#: classes/setting-options.php:627
+msgid "Default Country"
+msgstr "Pais por Defecto"
+
+#: views/smsalert_nav_tabs.php:33
+msgid "OTP Settings"
+msgstr "Configuracion OTP"
+
+#: views/smsalert_general_tab.php:57
+msgid "Logout"
+msgstr "Salir"
+
+#: views/smsalert_nav_tabs.php:42
+msgid "Support"
+msgstr "Soporte"
+
+#: classes/setting-options.php:771 views/smsalert_nav_tabs.php:39
+msgid "SMS Credits"
+msgstr "Creditos SMS"
+
+#: views/smsalert_nav_tabs.php:36
+msgid "Advanced Settings"
+msgstr "Ajustes avanzados"
+
+#: views/smsalert_nav_tabs.php:10
+msgid "General Settings"
+msgstr "Configuración general"
+
+#: classes/setting-options.php:152 classes/setting-options.php:154
+#: classes/setting-options.php:156 classes/setting-options.php:158
+#: classes/setting-options.php:160 classes/setting-options.php:162
+#: classes/setting-options.php:164 classes/setting-options.php:166
+#: classes/setting-options.php:168 classes/setting-options.php:170
+#: classes/setting-options.php:172 classes/setting-options.php:174
+#: classes/setting-options.php:179 handler/forms/gravity-form.php:94
+#: views/support.php:58
+msgid "SMS ALERT"
+msgstr "SMS ALERT"
+
+#: views/otp-section-template.php:80
+msgid "OTP Verify Button Text"
+msgstr "Texto de botón de verificación de OTP"
+
+#: views/otp-section-template.php:316
+msgid "OTP Re-send Timer"
+msgstr "Temporizador de reenvío de OTP"
+
+#: views/otp-section-template.php:74
+msgid "Verify only Guest Checkout"
+msgstr "Verificar solo pago de invitado"
+
+#: views/otp-section-template.php:59
+msgid "Verify OTP in Popup"
+msgstr "Verificar OTP en ventana emergente"
+
+#: handler/forms/class-wpforms.php:142 views/smsalert_general_tab.php:68
+msgid "Send Admin SMS To"
+msgstr "Enviar SMS de administrador a"
+
+#. Author URI of the plugin
+msgid "https://www.smsalert.co.in"
+msgstr "https://www.smsalert.co.in"
+
+#. Author of the plugin
+msgid "Cozy Vision Technologies Pvt. Ltd."
+msgstr "Cozy Vision Technologies Pvt. Ltd."
+
+#. Description of the plugin
+msgid "This is a WooCommerce add-on. By Using this plugin admin and buyer can get notification after placing order via sms using SMS Alert."
+msgstr "Este es un complemento de WooCommerce. Mediante el uso de este complemento, el administrador y el comprador pueden recibir una notificación después de realizar el pedido a través de SMS utilizando la alerta de SMS."
+
+#. Plugin Name of the plugin
+msgid "SMSAlert - WooCommerce"
+msgstr "SMSAlert - WooCommerce"
+
+#: template/register-otp-template.php:24
+msgid "Validate OTP (One Time Passcode)"
+msgstr "Validar OTP (código de acceso único)"
+
+#: handler/forms/class-userswpform.php:91
+#: handler/forms/pie-registration.php:137 handler/forms/ultimate-member.php:366
+#: handler/forms/user-registration.php:170
+#: handler/forms/woocommerce/wc-checkout.php:156
+#: handler/forms/woocommerce/wc-registration.php:311
+msgid "An account is already registered with this mobile number. Please login."
+msgstr "Una cuenta ya está registrada con su dirección de correo electrónico. Por favor Iniciar sesión."
+
+#: helper/messages.php:23 template/register-otp-template.php:34
+msgid "Validate OTP"
+msgstr "Validar OTP"
+
+#: classes/setting-options.php:665
+msgid "Daily Balance Alert"
+msgstr "Alerta de saldo diario"
+
+#: classes/setting-options.php:657
+msgid "Low Balance Alert"
+msgstr "Alerta de saldo bajo"
+
+#: views/otp-section-template.php:111
+msgid "Allow multiple accounts with same mobile number"
+msgstr "Permitir múltiples cuentas con el mismo número de móvil"
+
+#: views/smsalert_general_tab.php:5
+msgid "SMS Alert Username"
+msgstr "Usuario SMS Alert"
+
+#: classes/setting-options.php:152 classes/setting-options.php:154
+#: classes/setting-options.php:156 classes/setting-options.php:158
+#: classes/setting-options.php:160 classes/setting-options.php:162
+#: classes/setting-options.php:164 classes/setting-options.php:166
+#: classes/setting-options.php:168 classes/setting-options.php:170
+#: classes/setting-options.php:172 classes/setting-options.php:174
+#: classes/setting-options.php:179 handler/forms/class-contactform7.php:573
+#: handler/forms/class-elementor.php:202 handler/forms/class-formidable.php:123
+#: helper/return-warranty.php:160
+msgid "SMS Alert"
+msgstr "SMS Alert"
+
+#: handler/forms/woocommerce/wc-checkout.php:1092
+msgid "Order note SMS Sent to buyer"
+msgstr "Nota de pedido SMS enviado al comprador"
+
+#: handler/forms/woocommerce/wc-checkout.php:1481
+msgid "SMS Sent Successfully."
+msgstr "SMS enviado satisfactoriamente."
+
+#: handler/forms/woocommerce/wc-checkout.php:1433
+msgid "SMS Send to buyer Successfully."
+msgstr "SMS enviado al comprador con éxito."
+
+#: views/otp-section-template.php:90
+msgid "OTP for Registration"
+msgstr "OTP para registro"
+
+#: views/otp-section-template.php:7
+msgid "OTP for Checkout"
+msgstr "OTP para pagar"
+
+#: views/smsalert_general_tab.php:48
+msgid "display name for SMS's to be sent"
+msgstr "nombre para mostrar para enviar SMS"
+
+#: views/smsalert_general_tab.php:37
+msgid "SMS Alert Sender Id"
+msgstr "ID del remitente de alerta de SMS"
+
+#: views/smsalert_general_tab.php:22
+msgid "SMS Alert Password"
+msgstr "Contraseña de alerta por SMS"
+
+#: views/smsalert_general_tab.php:93
+msgid "Admin order sms notifications will be sent to this number."
+msgstr "Los avisos SMS de administración sobre pedidos se enviarán a este número."

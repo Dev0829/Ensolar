@@ -1,0 +1,25 @@
+
+---Downloaded files---
+The import files for: Real Estate were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://ensolarusa.com/projects
+Data file = /home/u966590352/domains/ensolarusa.com/public_html/projects/wp-content/uploads/2022/11/demo-content-import-file_2022-11-18__03-12-16.xml
+Widget file = /home/u966590352/domains/ensolarusa.com/public_html/projects/wp-content/uploads/2022/11/demo-widgets-import-file_2022-11-18__03-12-16.json
+Customizer file = not defined!
+Redux files:
+pointfindertheme_options -> /home/u966590352/domains/ensolarusa.com/public_html/projects/wp-content/uploads/2022/11/demo-redux-import-file_0-2022-11-18__03-12-16.json 
+pointfindermail_options -> /home/u966590352/domains/ensolarusa.com/public_html/projects/wp-content/uploads/2022/11/demo-redux-import-file_1-2022-11-18__03-12-16.json 
+pfcustomfields_options -> /home/u966590352/domains/ensolarusa.com/public_html/projects/wp-content/uploads/2022/11/demo-redux-import-file_2-2022-11-18__03-12-16.json 
+pfsearchfields_options -> /home/u966590352/domains/ensolarusa.com/public_html/projects/wp-content/uploads/2022/11/demo-redux-import-file_3-2022-11-18__03-12-16.json 
+pfascontrol_options -> /home/u966590352/domains/ensolarusa.com/public_html/projects/wp-content/uploads/2022/11/demo-redux-import-file_4-2022-11-18__03-12-16.json 
+
+
+---ocdi/before_content_import---
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+An error occurred while reading a file from your server! Tried reading file from path: <br>/home/u966590352/domains/ensolarusa.com/public_html/projects/wp-content/uploads/2022/11/demo-widgets-import-file_2022-11-18__03-12-16.json.
