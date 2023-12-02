@@ -41,17 +41,17 @@
 
 /** The name of the database for WordPress */
 
-define( 'DB_NAME', 'u966590352_projects' );
+define( 'DB_NAME', 'installation-map' );
 
 
 /** Database username */
 
-define( 'DB_USER', 'u966590352_uprojects' );
+define( 'DB_USER', 'root' );
 
 
 /** Database password */
 
-define( 'DB_PASSWORD', 'Jarabacoa0517$' );
+define( 'DB_PASSWORD', '' );
 
 
 /** Database hostname */
@@ -159,6 +159,7 @@ define( 'WP_DEBUG', false );
 
 
 define( 'FS_METHOD', 'direct' );
+define( 'DUPLICATOR_AUTH_KEY', '}UK881gxi.[yjpLw(Mxi<0*k&ZuBORY; d7N.A;9e!EB2]iTXCz:j@1NfuaMYW!j' );
 /* That's all, stop editing! Happy publishing. */
 
 

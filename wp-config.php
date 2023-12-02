@@ -2,26 +2,27 @@
 
 // BEGIN iThemes Security - Do not modify or remove this line
 // iThemes Security Config Details: 2
-define( 'FORCE_SSL_ADMIN', false ); // Redirect All HTTP Page Requests to HTTPS - Security > Settings > Enforce SSL
-define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settings > WordPress Tweaks > File Editor
+// define('FORCE_SSL', false);
+// define( 'FORCE_SSL_ADMIN', false ); // Redirect All HTTP Page Requests to HTTPS - Security > Settings > Enforce SSL
+// define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settings > WordPress Tweaks > File Editor
 // END iThemes Security - Do not modify or remove this line
 
-define( 'ITSEC_ENCRYPTION_KEY', 'UT8qRjpDMV5AK0koZk4pSzdFTXxJTDZKNmokTy8pUElMYDooOG4seSVqVn15eDhWWHJhLTJKMT4/I0VkRl9gIw==' );
+//define( 'ITSEC_ENCRYPTION_KEY', 'UT8qRjpDMV5AK0koZk4pSzdFTXxJTDZKNmokTy8pUElMYDooOG4seSVqVn15eDhWWHJhLTJKMT4/I0VkRl9gIw==' );
 
-define( 'WP_CACHE', true );
+//define( 'WP_CACHE', true );
 
 //Begin Really Simple SSL session cookie settings
-@ini_set('session.cookie_httponly', true);
-@ini_set('session.cookie_secure', true);
-@ini_set('session.use_only_cookies', true);
+// @ini_set('session.cookie_httponly', true);
+// @ini_set('session.cookie_secure', true);
+// @ini_set('session.use_only_cookies', true);
 //END Really Simple SSL cookie settings
-if ( file_exists(ABSPATH . "wp-content/advanced-headers.php") ) { 
-	require_once ABSPATH . "wp-content/advanced-headers.php";
-}
+// if ( file_exists(ABSPATH . "wp-content/advanced-headers.php") ) { 
+// 	require_once ABSPATH . "wp-content/advanced-headers.php";
+// }
 
 
 /**
- * The base configuration for WordPress
+     * The base configuration for WordPress
  *
  * The wp-config.php creation script uses this file during the installation.
  * You don't have to use the web site, you can copy this file to "wp-config.php"
@@ -78,9 +79,9 @@ define( 'AUTH_SALT',         ',)F*gSlK;k3Ni!M!YWA+d>lXD-tJl<`TD|q[huff]vSeR@CH:I
 define( 'SECURE_AUTH_SALT',  ':i/xf~1<6p.l >vsM<g+:R!u53|/iJ(Q&<b~t0-[J&jeL7k*vpK^(YRggxQ]1-*0' );
 define( 'LOGGED_IN_SALT',    '<@&u#*GJ(a>cnoAsskS+`qN:Y5zc)gnX_DOJo9jdy=0v8~}#IYk>-s>pv*pZ.u$~' );
 define( 'NONCE_SALT',        '%FBuM1}IgU,]B1WgejE(4e;%+<{>-uhc_&OTYo8I<tKlaIfZYV$$7O$mYaf?4&)!' );
-define( 'WP_CACHE_KEY_SALT', 'Sj yxH7n`h9:E6qY9,tzO+^N4>BS3m_>%+R#D HYA@{M vSXaqT3wGCJB|2pC;)o' );
-define( 'APCU_ENABLED', true );
-define( 'WP_MEMORY_LIMIT', '1024M' );
+//define( 'WP_CACHE_KEY_SALT', 'Sj yxH7n`h9:E6qY9,tzO+^N4>BS3m_>%+R#D HYA@{M vSXaqT3wGCJB|2pC;)o' );
+//define( 'APCU_ENABLED', true );
+//define( 'WP_MEMORY_LIMIT', '1024M' );
 
 /**#@-*/
 
@@ -104,16 +105,19 @@ $table_prefix = 'u2rSk_';
  *
  * @link https://wordpress.org/support/article/debugging-in-wordpress/
  */
-define( 'WP_DEBUG', false );
+define( 'WP_DEBUG', true );
+define( 'WP_DEBUG_LOG', true );
+define( 'WP_DEBUG_DISPLAY', false );
+@ini_set( 'display_errors', 0 );
 
 
 /* Add any custom values between this line and the "stop editing" line. */
 
 
 
-define( 'FS_METHOD', 'direct' );
-define( 'WP_AUTO_UPDATE_CORE', 'minor' );
-define( 'DUPLICATOR_AUTH_KEY', ']-ex<!tu|sr#`hBObhDCrRvGZ~|zzEi}`[E0700(}j!CF!ktKyj]0~@ut=`Z6ky3' );
+// define( 'FS_METHOD', 'direct' );
+// define( 'WP_AUTO_UPDATE_CORE', 'minor' );
+// define( 'DUPLICATOR_AUTH_KEY', ']-ex<!tu|sr#`hBObhDCrRvGZ~|zzEi}`[E0700(}j!CF!ktKyj]0~@ut=`Z6ky3' );
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
